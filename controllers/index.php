@@ -1,5 +1,5 @@
 <?
-include('/../models/model_user.php');
+include('/models/model_user.php');
 Class Controller_Index Extends Controller_Base {    
     // шаблон
     public $layouts = "first_layouts";
